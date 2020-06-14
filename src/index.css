@@ -1,0 +1,11 @@
+.lit{
+  background-color: yellow;
+  color: black;
+  height: 100vh;
+}
+.dark{
+  background-color:black;
+  color: white;
+  height: 100vh;
+}
+
